@@ -21,7 +21,7 @@
 - Filesystem windows vs Filesystem Unix-like
   - Unix-like hanya memiliki 1 tree, sedangkan
   - Windows memiliki lebih dari 1 tree atau yang sering kita kenal sebagai partisi
-### **Command navigasi CLI(Bash)**
+### **Command navigasi CLI (Bash)**
 - ``` pwd ``` (Print working directory), Command untuk melihat current working directory
 - ``` ls ``` (list), Command untuk melihat isi sebuah directory
 - ``` cd ``` (change directory), Command untuk berpindah direktori
